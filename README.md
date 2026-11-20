@@ -133,7 +133,8 @@ Agentic_AI_Travel_Assistant/
 ## ☁️ Deployment
 
 The application is deployed using **Streamlit Community Cloud**.
-![Gantavya AI Deployment](screenshots/deployment.png)
+![Gantavya AI – Live Deployment](<img width="1244" height="1089" alt="Gantavya AI Travel Planner Dashboard" src="https://github.com/user-attachments/assets/7e1a1a9a-eecd-47e3-9c02-71dacb8f361f" />
+)
 
 Live application:
 
