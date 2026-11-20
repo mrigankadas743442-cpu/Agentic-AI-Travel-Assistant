@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from typing import Optional
 
-from langchain.tools import tool
+from langchain_core.tools import tool
 
 DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "hotels.json"
 

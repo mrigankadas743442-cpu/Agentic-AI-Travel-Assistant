@@ -2,7 +2,7 @@
 import json
 import requests
 
-from langchain.tools import tool
+from langchain_core.tools import tool
 
 
 @tool
