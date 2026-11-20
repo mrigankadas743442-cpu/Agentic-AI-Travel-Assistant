@@ -8,6 +8,7 @@ __pycache__/
 
 # API keys and secrets
 .env
+.streamlit/secrets.toml
 
 # VS Code settings
 .vscode/
