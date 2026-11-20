@@ -4,7 +4,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-green.svg)
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red.svg)
-![Status](https://img.shields.io/badge/Status-Deployed-success.svg)
+
 
 ## 🌐 Live Demo
 
@@ -133,8 +133,8 @@ Agentic_AI_Travel_Assistant/
 ## ☁️ Deployment
 
 The application is deployed using **Streamlit Community Cloud**.
-![Gantavya AI – Live Deployment](<img width="1244" height="1089" alt="Gantavya AI Travel Planner Dashboard" src="https://github.com/user-attachments/assets/7e1a1a9a-eecd-47e3-9c02-71dacb8f361f" />
-)
+<img width="1244" height="1089" alt="Gantavya AI Travel Planner Dashboard" src="https://github.com/user-attachments/assets/7e1a1a9a-eecd-47e3-9c02-71dacb8f361f" />
+
 
 Live application:
 
